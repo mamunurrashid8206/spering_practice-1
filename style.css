@@ -351,7 +351,7 @@ img.freelance_image {
 div {
     /* display: flex; */
 }/* WORK FREELANER style END */
-
+/* Testimonial section start */
 
 .testimonial_container {
     width: 1140px;
@@ -393,3 +393,10 @@ p.testimonial_container_paragraph {
     font-size: 22px;
     margin: 15px 25px;
 }
+/* Testimonial section end */
+
+/* Footer section start */
+
+
+
+/* Footer section end */
